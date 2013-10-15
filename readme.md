@@ -1,1 +1,1 @@
-h1. Amazon like-nav
+Amazon like-nav
